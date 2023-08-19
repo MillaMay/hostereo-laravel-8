@@ -1,0 +1,9 @@
+#history {
+    background-color: #6c757d;
+    color: white;
+    border-radius: 10px;
+}
+
+#history-list {
+    list-style-type: none;
+}
